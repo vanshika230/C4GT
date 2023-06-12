@@ -10,4 +10,14 @@ References:-
 8. https://github.com/nicknochnack/Q-A-Anvil-App
 9. https://blog.paperspace.com/question-answering-models-a-comparison/
 10. https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes
-11. 
+11. https://www.techopedia.com/definition/34948/large-language-model-llm
+12. https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/
+13. https://www.techtarget.com/whatis/definition/large-language-model-LLM
+14. https://machinelearningmastery.com/what-are-large-language-models/
+15. https://colab.research.google.com/github/arminnorouzi/machine_learning_course_UofA_MECE610/blob/main/L07_Generative_AI/L07b_Transformer.ipynb#scrollTo=GSWNWXv3WxA1
+16. https://levelup.gitconnected.com/llm-behind-the-scenes-exploring-transformers-with-tensorflow-c4c93fbe38d5
+17. https://f-a.nz/dev/develop-your-own-llm-like-chatgpt-with-tensorflow-and-keras/
+18. https://docs.haystack.deepset.ai/docs
+19. https://towardsai.net/p/machine-learning/deploying-a-langchain-large-language-model-llm-with-streamlit-pinecone
+20. https://iamgeekydude.com/2023/05/17/how-to-use-milvus-vector-database-for-machine-learning-workloads/
+21. 
