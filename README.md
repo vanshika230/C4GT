@@ -20,4 +20,3 @@ References:-
 18. https://docs.haystack.deepset.ai/docs
 19. https://towardsai.net/p/machine-learning/deploying-a-langchain-large-language-model-llm-with-streamlit-pinecone
 20. https://iamgeekydude.com/2023/05/17/how-to-use-milvus-vector-database-for-machine-learning-workloads/
-21. 
