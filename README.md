@@ -39,5 +39,7 @@ References:-
 37. https://www.kdnuggets.com/2020/10/flavor-bert-use-qa-task.html
 38. https://atulsinghphd.medium.com/question-answering-part-2-taxonomy-and-comparison-of-different-categories-of-question-answering-570350d4b754
 39. https://vitalflux.com/large-language-models-concepts-examples/
+40. https://www.oreilly.com/content/question-answering-with-tensorflow/
+41. https://f-a.nz/dev/develop-your-own-llm-like-chatgpt-with-tensorflow-and-keras/
 
 
