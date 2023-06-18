@@ -23,5 +23,14 @@ References:-
 21. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
 22. https://www.youtube.com/watch?v=eG1IvwuZ9e4
 23. https://blog.paperspace.com/how-to-train-question-answering-machine-learning-models/
-24. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
+24. https://pub.towardsai.net/ask-and-you-shall-receive-using-bert-for-question-answering-with-the-world-happiness-report-3fa8bf4df536
+25. https://pub.towardsai.net/build-and-deploy-a-bert-question-answering-app-using-streamlit-1aba1d76b84
+26. https://github.com/lanchuhuong/Deploy_Bert_QA_app_to_Render
+27. https://gist.github.com/waleedkadous/d06097768abbea54d59e5d3ed4f045f3
+28. https://aws.amazon.com/blogs/machine-learning/question-answering-using-retrieval-augmented-generation-with-foundation-models-in-amazon-sagemaker-jumpstart/
+29. https://artificialcorner.com/answering-question-about-your-documents-using-langchain-and-not-openai-2f75b8d639ae
+30. https://github.com/whitead/paper-qa
+31. https://cobusgreyling.medium.com/agents-llms-multihop-question-answering-ca6521227b6c
+32. 
+33. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
 
