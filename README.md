@@ -31,6 +31,13 @@ References:-
 29. https://artificialcorner.com/answering-question-about-your-documents-using-langchain-and-not-openai-2f75b8d639ae
 30. https://github.com/whitead/paper-qa
 31. https://cobusgreyling.medium.com/agents-llms-multihop-question-answering-ca6521227b6c
-32. 
+32. https://blog.paperspace.com/question-answering-models-a-comparison/
 33. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
+34. https://www.edenai.co/post/best-question-answering-apis
+35. https://www.narrativa.com/a-question-answering-model-that-answers-everything/
+36. https://www.deepset.ai/blog/modern-question-answering-systems-explained
+37. https://www.kdnuggets.com/2020/10/flavor-bert-use-qa-task.html
+38. https://atulsinghphd.medium.com/question-answering-part-2-taxonomy-and-comparison-of-different-categories-of-question-answering-570350d4b754
+39. https://vitalflux.com/large-language-models-concepts-examples/
+
 
