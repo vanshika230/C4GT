@@ -22,4 +22,6 @@ References:-
 20. https://iamgeekydude.com/2023/05/17/how-to-use-milvus-vector-database-for-machine-learning-workloads/
 21. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
 22. https://www.youtube.com/watch?v=eG1IvwuZ9e4
+23. https://blog.paperspace.com/how-to-train-question-answering-machine-learning-models/
+24. https://blog.langchain.dev/auto-eval-of-question-answering-tasks/
 
